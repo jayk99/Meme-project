@@ -1,0 +1,20 @@
+html {
+    background-color: black;
+}
+h1{
+   font-size: 48px;
+}
+#danny {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+#image {
+    border: 5px solid white;
+    width: 100%;
+
+
+}
